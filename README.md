@@ -1,1 +1,1 @@
-# MySQL-Exploratory-Data-Analysis
+# SQL Exploratory Data Analysis
