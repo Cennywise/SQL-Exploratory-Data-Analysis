@@ -12,4 +12,4 @@ I calculated a rolling total to track the number of employees that were laid off
 
 Finally, I found the top 5 companies with the most layoffs for each year from 2020 to 2023. As mentioned before, it's Google that was responsible for the biggest layoff of 12,000 employees in 2023 as of March.
 
-![Top 5 Layoffs](Top 5 Biggest Layoffs.png)
+![Top](Top 5 Biggest Layoffs.png)
