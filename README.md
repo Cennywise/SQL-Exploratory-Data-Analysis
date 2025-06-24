@@ -10,6 +10,8 @@ While its small companies that are more likely to go out of business, it is big 
 
 I calculated a rolling total to track the number of employees that were laid off month to month across the world. The dataset records up until March of 2023, and the grand total of layoffs is 383,159.
 
+![Top 5 Graph](Top 5 Biggest Layoffs.png)
+
 Finally, I found the top 5 companies with the most layoffs for each year from 2020 to 2023. As mentioned before, it's Google that was responsible for the biggest layoff of 12,000 employees in 2023 as of March.
 
 ![Top 5 Graph](Top 5 Biggest Layoffs.png)
